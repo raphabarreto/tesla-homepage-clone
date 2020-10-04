@@ -1,7 +1,16 @@
 import React from 'react';
 
+import Page from './components/Page';
+
+import { GlobalStyles } from './styles/GlobalStyles';
+
 const App: React.FC = () => {
-  return <h1>Hello, Tesla</h1>;
+  return (
+    <>
+      <Page />
+      <GlobalStyles />
+    </>
+  );
 };
 
 export default App;
