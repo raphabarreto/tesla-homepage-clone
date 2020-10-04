@@ -54,7 +54,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 ## 💻 Projeto
-Esta aplicação é uma reprodução da homepage do[Tesla](https://www.tesla.com/), criando e integrando vários componentes da forma mais fiel possível (sem sofrer direitos autorais pelas imagens dos carros).
+Esta aplicação é uma reprodução da homepage do [Tesla](https://www.tesla.com/), criando e integrando vários componentes da forma mais fiel possível (sem sofrer direitos autorais pelas imagens dos carros).
 
 ---
 
